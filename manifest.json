@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "josemiguelo.harpoon",
+  "name": "Harpoon",
+  "version": "1.0.0",
+  "author": "josemiguelo",
+  "license": "MIT",
+  "description": "Hyper-key app jumps and scratchpad overlays for Hyprland, and a card naming the workspace you land on",
+  "kinds": [
+    "panel"
+  ],
+  "keepLoaded": true,
+  "entryPoints": {
+    "panel": "Toast.qml"
+  }
+}
